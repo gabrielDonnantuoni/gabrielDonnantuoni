@@ -13,7 +13,7 @@ My goal of life is to become an expert problem solver, a inspiring dad and excel
 ## Social Media
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-donnantuoni-lima>
+  <a href="https://www.linkedin.com/in/gabriel-donnantuoni-lima">
     <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="mailto:gabrieldonnantuoni@gmail.com">
@@ -41,6 +41,7 @@ Tecnologias e ferramentas que estou utilizando e aprendendo:
 
 
 <!--
+v1.1
 **gabrielDonnantuoni/gabrielDonnantuoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
