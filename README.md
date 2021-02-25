@@ -5,7 +5,9 @@
 
 ## About me
 
+<p align="justify">
 One of the things I like the most is a good challenge. Since I was young I have been seeking that and adrenaline in my hobbies, mainly with aquatic sports like kite surf and surf and with computer games. I'm getting my degree in Civil Engeneering this semester, but even though it is a great course I was not finding myself excited about it. I started studying software development at [Trybe](https://www.betrybe.com) in 2020, Sep. and I have never been so thankful to myself for making this decision, every day is a new exciting challenge to deal with and I really enjoy it.
+</p>
 
 My goal in life is to become an expert problem solver, an inspiring dad and an excelent friend to all people that I love.
 
@@ -43,7 +45,7 @@ Tecnologias e ferramentas que estou utilizando e aprendendo:
 *Thanks to [otaldonunes](https://github.com/otaldonunes) and [MurilloWolf](https://github.com/MurilloWolf) for the README.md template.*
 
 <!--
-v1.3
+v1.4
 **gabrielDonnantuoni/gabrielDonnantuoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
