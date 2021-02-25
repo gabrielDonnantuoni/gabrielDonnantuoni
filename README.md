@@ -1,5 +1,5 @@
 <h2 align="center">Gabriel Donnantuoni Lima</h2>
-<h3 align="center">Software Develeper Web Student | Trybe</h3>
+<h3 align="center">Web Software Develeper Student | Trybe</h3>
 
 -----
 
@@ -45,7 +45,7 @@ Tecnologias e ferramentas que estou utilizando e aprendendo:
 *Thanks to [otaldonunes](https://github.com/otaldonunes) and [MurilloWolf](https://github.com/MurilloWolf) for the README.md template.*
 
 <!--
-v1.5
+v1.6
 **gabrielDonnantuoni/gabrielDonnantuoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
