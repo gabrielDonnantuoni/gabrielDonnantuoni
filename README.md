@@ -17,13 +17,13 @@ My goal in life is to become an expert problem solver, an inspiring dad and an e
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-donnantuoni-lima">
-    <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="mailto:gabrieldonnantuoni@gmail.com">
-    <img src="svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5585997789482">
-    <img src="svg/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
@@ -32,37 +32,46 @@ My goal in life is to become an expert problem solver, an inspiring dad and an e
 Technologies and tools I'm using and learning:
 
 #### Core
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white)
+  <!-- <img src="" alt="" style="vertical-align:top; margin:6px 4px"> -->
+<p>
+  <img src="svg/core/javascript.svg" alt="JavaScript badge" style="vertical-align:center; margin:4px 2px">
+  <img src="svg/core/typescript.svg" alt="TypeScript badge" style="vertical-align:center; margin:4px 2px">
+  <img src="svg/core/html.svg" alt="HTML badge" style="vertical-align:center; margin:4px 2px">
+  <img src="svg/core/css.svg" alt="CSS badge" style="vertical-align:center; margin:4px 2px">
+  <img src="svg/core/vscode.svg" alt="VS Code badge" style="vertical-align:center; margin:4px 2px">
+  <img src="svg/core/git.svg" alt="Git badge" style="vertical-align:center; margin:4px 2px">
+  <img src="svg/core/github.svg" alt="GitHub badge" style="vertical-align:center; margin:4px 2px">
+  <img src="svg/core/trello.svg" alt="Trello badge" style="vertical-align:center; margin:4px 2px">
+</p>
 
 #### Front-end
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![ReactRouter](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![NextJS](https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+
+<p>
+  <img src="svg/front-end/reactjs.svg" alt="ReactJS badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/front-end/reactrouter.svg" alt="React Router badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/front-end/nextjs.svg" alt="NextJS badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/front-end/materialui.svg" alt="MaterialUI badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/front-end/redux.svg" alt="Redux badge" style="vertical-align:top; margin:4px 2px">
+</p>
 
 #### Back-end
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-<!--
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
--->
+
+<p>
+  <img src="svg/back-end/mysql.svg" alt="MySQL badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/back-end/mongodb.svg" alt="MongoDB badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/back-end/nodejs.svg" alt="NodeJS badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/back-end/expressjs.svg" alt="ExpressJS badge" style="vertical-align:top; margin:4px 2px">
+</p>
 
 #### Testing
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
-![Testing Library](https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white)
 
+<p>
+  <img src="svg/testing/jest.svg" alt="Jest badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/testing/testinglibrary.svg" alt="Testing Library badge" style="vertical-align:top; margin:4px 2px">
+</p>
 
 -----
-*Thanks to [otaldonunes](https://github.com/otaldonunes) and [MurilloWolf](https://github.com/MurilloWolf) for the README.md template.*
+*Thanks to [otaldonunes](https://github.com/otaldonunes) and [MurilloWolf](https://github.com/MurilloWolf) for the README.md inspiration.*
 
 <!--
 v1.6
