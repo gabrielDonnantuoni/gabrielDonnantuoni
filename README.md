@@ -38,6 +38,7 @@ Technologies and tools I'm using and learning:
   <img src="svg/core/typescript.svg" alt="TypeScript badge" style="vertical-align:center; margin:4px 2px">
   <img src="svg/core/html.svg" alt="HTML badge" style="vertical-align:center; margin:4px 2px">
   <img src="svg/core/css.svg" alt="CSS badge" style="vertical-align:center; margin:4px 2px">
+  <img src="svg/core/bash.svg" alt="BASH badge" style="vertical-align:center; margin:4px 2px">
   <img src="svg/core/vscode.svg" alt="VS Code badge" style="vertical-align:center; margin:4px 2px">
   <img src="svg/core/git.svg" alt="Git badge" style="vertical-align:center; margin:4px 2px">
   <img src="svg/core/github.svg" alt="GitHub badge" style="vertical-align:center; margin:4px 2px">
@@ -68,6 +69,9 @@ Technologies and tools I'm using and learning:
 <p>
   <img src="svg/testing/jest.svg" alt="Jest badge" style="vertical-align:top; margin:4px 2px">
   <img src="svg/testing/testinglibrary.svg" alt="Testing Library badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/testing/mocha.svg" alt="Mocha badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/testing/chai.svg" alt="Chai badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/testing/sinon.svg" alt="Sinon badge" style="vertical-align:top; margin:4px 2px">
 </p>
 
 -----
