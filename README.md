@@ -6,10 +6,10 @@
 ## About me
 
 <p align="justify">
-One of the things I like the most is a good challenge. Since I was young I have been seeking that and adrenaline in my hobbies, mainly with aquatic sports like kite surf and surf and with computer games. I'm getting my degree in Civil Engeneering this semester, but even though it is a great course I was not finding myself excited about it. I started studying software development at <a href="https://www.betrybe.com">Trybe</a> in 2020, Sep. and I have never been so thankful to myself for making this decision, every day is a new exciting challenge to deal with and I really enjoy it.
+One of the things I like the most is a good challenge. Since I was young I have been seeking that and adrenaline in my hobbies, mainly with aquatic sports like kite surf and with computer games. I started studying software development at <a href="https://www.betrybe.com">Trybe</a> in 2020, Sep. and I have never been so thankful to myself for making this decision, every day is a new exciting challenge to deal with and I really enjoy it.
 </p>
 
-My goal in life is to become an expert problem solver, an inspiring dad and an excelent friend to all people that I love.
+My goal in life is to become an expert problem solver in my area, an inspiring dad and an excelent friend to all people that I love.
 
 -----
 
