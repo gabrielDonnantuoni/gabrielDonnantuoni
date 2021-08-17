@@ -36,6 +36,7 @@ Technologies and tools I'm using and learning:
 <p>
   <img src="svg/core/javascript.svg" alt="JavaScript badge" style="vertical-align:center; margin:4px 2px">
   <img src="svg/core/typescript.svg" alt="TypeScript badge" style="vertical-align:center; margin:4px 2px">
+  <img src="svg/core/python.svg" alt="Python badge" style="vertical-align:center; margin:4px 2px">
   <img src="svg/core/html.svg" alt="HTML badge" style="vertical-align:center; margin:4px 2px">
   <img src="svg/core/css.svg" alt="CSS badge" style="vertical-align:center; margin:4px 2px">
   <img src="svg/core/bash.svg" alt="BASH badge" style="vertical-align:center; margin:4px 2px">
@@ -59,9 +60,11 @@ Technologies and tools I'm using and learning:
 
 <p>
   <img src="svg/back-end/mysql.svg" alt="MySQL badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/back-end/postgres.svg" alt="PostgreSQL badge" style="vertical-align:top; margin:4px 2px">
   <img src="svg/back-end/mongodb.svg" alt="MongoDB badge" style="vertical-align:top; margin:4px 2px">
   <img src="svg/back-end/nodejs.svg" alt="NodeJS badge" style="vertical-align:top; margin:4px 2px">
   <img src="svg/back-end/expressjs.svg" alt="ExpressJS badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/back-end/sequelize.svg" alt="Sequelize badge" style="vertical-align:top; margin:4px 2px">
 </p>
 
 #### Testing
@@ -72,6 +75,7 @@ Technologies and tools I'm using and learning:
   <img src="svg/testing/mocha.svg" alt="Mocha badge" style="vertical-align:top; margin:4px 2px">
   <img src="svg/testing/chai.svg" alt="Chai badge" style="vertical-align:top; margin:4px 2px">
   <img src="svg/testing/sinon.svg" alt="Sinon badge" style="vertical-align:top; margin:4px 2px">
+  <img src="svg/testing/pytest.svg" alt="Pytest badge" style="vertical-align:top; margin:4px 2px">
 </p>
 
 -----
@@ -80,6 +84,10 @@ Technologies and tools I'm using and learning:
 <!--
 v1.6
 **gabrielDonnantuoni/gabrielDonnantuoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+EXAMPLE OF BADGE SOURCE => https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white
+ICONS PROPER COLOR SOURCE => https://simpleicons.org/
 
 Here are some ideas to get you started:
 
