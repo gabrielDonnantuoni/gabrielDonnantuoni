@@ -6,7 +6,7 @@
 ## About me
 
 <p align="justify">
-One of the things I like the most is a good challenge. Since I was young I have been seeking that and adrenaline in my hobbies, mainly with aquatic sports like kite surf and with computer games. I started studying software development at <a href="https://www.betrybe.com">Trybe</a> in 2020, Sep. and I have never been so thankful to myself for making this decision, every day is a new exciting challenge to deal with and I really enjoy it.
+I'm a civil engineer that changed career to software engineering. In 2021 I did this transition with <a href="https://www.betrybe.com">Trybe</a> help, it was a great experience that made me grow as a person and as a professional. One of the things I like the most is a good challenge and today I'm working at <a href="https://jungledevs.com/">Jungle Devs</a>, a great place to work, full of great people and with inspiring, challenging and healthy environment.
 </p>
 
 My goal in life is to become an expert problem solver in my area, an inspiring dad and an excelent friend to all people that I love.
@@ -78,8 +78,6 @@ Technologies and tools I'm using and learning:
   <img src="svg/testing/pytest.svg" alt="Pytest badge" style="vertical-align:top; margin:4px 2px">
 </p>
 
------
-*Thanks to [otaldonunes](https://github.com/otaldonunes) and [MurilloWolf](https://github.com/MurilloWolf) for the README.md inspiration.*
 
 <!--
 v1.6
