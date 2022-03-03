@@ -16,7 +16,7 @@ My goal in life is to become an expert problem solver in my area, an inspiring d
 ## Social Media
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-donnantuoni-lima">
+  <a href="https://www.linkedin.com/in/gabrieldonnantuoni/">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="mailto:gabrieldonnantuoni@gmail.com">
