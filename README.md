@@ -1,5 +1,5 @@
 <h2 align="center">Gabriel Donnantuoni Lima</h2>
-<h3 align="center">Web Software Develeper Student | Trybe</h3>
+<h3 align="center">Software Engineer</h3>
 
 -----
 
