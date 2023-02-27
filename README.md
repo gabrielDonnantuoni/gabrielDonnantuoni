@@ -6,7 +6,7 @@
 ## About me
 
 <p align="justify">
-I'm a civil engineer that changed career to software engineering. In 2021 I did this transition with <a href="https://www.betrybe.com">Trybe</a> help, it was a great experience that made me grow as a person and as a professional. One of the things I like the most is a good challenge and today I'm working at <a href="https://olby.com/">Olby</a>, a great place to work, full of great people and with a inspiring, challenging and healthy environment.
+I'm a civil engineer that changed career to software engineering. In 2021 I did this transition with <a href="https://betrybe.com">Trybe</a>'s help, it was a great experience that made me grow as a person and as a professional. Since I finished the course at Trybe, I worked one year at <a href="https://olby.com/">Olby</a> as a Backend Engineer using mainly Nest.js, Typescript, GraphQL, MongoDB and microsservice architecture to build the awesome digital platform that supports dev talent and companies to build impactful connections. Nowdays, I've came back to Trybe as a Software Developer and I'm working with python, odoo and elixir.
 </p>
 
 My goal in life is to become an expert problem solver in my area, an inspiring dad and an excelent friend to all people that I love.
